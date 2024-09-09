@@ -1,0 +1,16 @@
+h1{
+    color:aqua
+}
+p{
+    background-color: brown;
+}
+p#intro{ background-color: aqua;}
+body{
+    background-color: plum;
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)
+    
+}
+img.dikkevette{
+    border: 10px dashed pink;
+
+ }
